@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CoursesApp</string>
+    <string name="title_activity_avtorization">Avtorization</string>
+    <string name="title_activity_favourites">Favourites</string>
+    <string name="title_activity_single_course_info">SingleCourseInfo</string>
+    <string name="title_activity_accaunt">Accaunt</string>
+</resources>
